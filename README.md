@@ -1,6 +1,6 @@
 # CilinderCalculator
 
-![alt text](https://i.ibb.co/1QVYJvk/Splah.png)
+![alt text](https://i.ibb.co/PNbQy7G/Splah.png)
 
 CilinderCalculator is a program to calculate the Volume and Surface of a Cilinder entering the height and radio.
 ## Installation
